@@ -4,3 +4,9 @@
 .animate__animated.animate__fadeIn {
   --animate-duration: 0.6s;
 }
+
+/* SVG Animation */
+svg path,
+svg rect{
+  fill: black;
+}
